@@ -2,11 +2,11 @@ body {
   font: 16px/1.5 'Open Sans','Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 0px 0px 0px;
   margin: 0px;
-  background: #FCFCFC
+  background: #4c4b4b
 }
 
 a, a:link {
-  color: #1D9DD9;
+  color: #29ac6a;
   text-decoration: none;
 }
 
@@ -78,7 +78,7 @@ strong, b {
 }
 
 .header {
-  color: rgb(70, 74, 80);
+  color: rgb(46, 145, 79);
   font-size:16px;
   width : 100%;
   margin : 0px;
@@ -88,7 +88,7 @@ strong, b {
 .separator {
   border: none;
   height: 2px;
-  background: rgb(226, 227, 229);
+  background: rgb(133, 134, 134);
   margin: 10px 0px 10px 0px;
   padding: 0px;
 }
